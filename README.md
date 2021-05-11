@@ -2,7 +2,7 @@
 
 A dual VCA module based on the CEM 3360 IC
 
-## Status
+## Status: Finished
 
 - done: first schematic & board design
 - done: breadboard and test
